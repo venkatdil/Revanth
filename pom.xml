@@ -24,13 +24,13 @@
 <repository>
 <id>nexus-Releses</id>
 <name>Mithun Technologies Releases Nexus Repository</name>
-<url>http://3.84.3.70:8081/repository/maven-releases//</url>
+<url>http://3.84.3.70:8081/repository/dil-release/</url>
 </repository>
 
 <snapshotRepository>
 <id>nexus-Snapshots</id>
-<name>Mithun Technologies Snapshot Nexus Repository </name>
-<url>http://3.84.3.70:8081/repository/maven-snapshots/</url>
+<name>Mithun Technologies Snapshot Nexus Repository</name>
+<url>http://3.84.3.70:8081/repository/dil-snapshot/</url>
 </snapshotRepository>
 </distributionManagement>
   <build>
