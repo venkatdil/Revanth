@@ -20,7 +20,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-   <distributionManagement>
+ <distributionManagement>
 <repository>
 <id>nexus-Releses</id>
 <name>Mithun Technologies Releases Nexus Repository</name>
@@ -29,7 +29,7 @@
 
 <snapshotRepository>
 <id>nexus-Snapshots</id>
-<name>Mithun Technologies Snapshot Nexus Repository</name>
+<name>Mithun Technologies Snapshot Nexus Repository </name>
 <url>http://3.84.3.70:8081/repository/dil-snapshot/</url>
 </snapshotRepository>
 </distributionManagement>
